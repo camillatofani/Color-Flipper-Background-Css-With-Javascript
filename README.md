@@ -1,2 +1,0 @@
-# ColorFlipper
-Color Flipper Javascript
